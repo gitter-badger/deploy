@@ -1,0 +1,11 @@
+{
+    "name": "futurity-pro/deploy",
+    "description": "Futurity Deploy",
+    "minimum-stability": "dev",
+    "authors": [
+        {"name": "Aleksey Razbakov", "email": "aleksey@razbakov.com"}
+    ],
+    "require": {
+        "silex/silex": "~1.1"
+    }
+}
